@@ -9,7 +9,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-@lutvz-blue?style=flat-rounded&logo=twitter&logoColor=white&link=https://instagram.com/lutvz/)](https://twitter.com/lutvz)
 [![Gmail Badge](https://img.shields.io/badge/-muhammadlutvzaini@gmail.com-c14438?style=flat-rounded&logo=Gmail&logoColor=white&link=mailto:muhammadlutvzaini@gmail@gmail.com)](mailto:muhammadlutvzaini@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-muhammadlutfizaini-blue?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-lutfi-zaini/)](https://www.linkedin.com/in/muhammad-lutfi-zaini/)
+[![Linkedin Badge](https://img.shields.io/badge/-muhammadlutfizaini-blue?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-lutfi-zaini-8a2852224)](https://www.linkedin.com/in/muhammad-lutfi-zaini-8a2852224)
 
 
 
@@ -23,7 +23,7 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-rounded&logo=mysql)
 
-![Linux Badge](https://img.shields.io/badge/-Linux-black?style=flat-rounded&logo=Linux&logoColor=white&link=https://www.linkedin.com/in/muhammad-lutfi-zaini/)
+![Linux Badge](https://img.shields.io/badge/-Linux-black?style=flat-rounded&logo=Linux&logoColor=white&link=https://linuxmint.com/)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-rounded&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-rounded&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-rounded&logo=visual-studio-code)
