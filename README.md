@@ -2,29 +2,27 @@
 
 - 🔭 &nbsp;I'm currently pursuing bachelor's degree majoring in Information System
 - 🌱 &nbsp;I’m currently learning Javascript, React.js, Node.js
-- 📫 &nbsp;Reach me: [@lutzaini](https://twitter.com/lutvzaini)
 - 🌏 &nbsp;I love nature & earth
+
+<!-- <img width="55%" align="Left" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 #### 🤙 Connect
 
-[![Twitter Badge](https://img.shields.io/badge/-@lutvz-blue?style=flat-rounded&logo=twitter&logoColor=white&link=https://twitter.com/lutvzaini/)](https://twitter.com/lutvzaini)
-[![Gmail Badge](https://img.shields.io/badge/-muhammadlutvzaini@duck.com-c14438?style=flat-rounded&logo=Gmail&logoColor=white&link=mailto:muhammadlutvzaini@duck.com)](mailto:muhammadlutvzaini@duck.com)
-[![Linkedin Badge](https://img.shields.io/badge/-muhammadlutfizaini-blue?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-lutfi-zaini-8a2852224)](https://www.linkedin.com/in/muhammad-lutfi-zaini-8a2852224)
+[![Twitter Badge](https://img.shields.io/badge/-@lutvzaini-black?style=flat-rounded&logo=twitter&logoColor=white&link=https://twitter.com/lutvzaini/)](https://twitter.com/lutvzaini)
+[![Gmail Badge](https://img.shields.io/badge/-muhammadlutvzaini@duck.com-black?style=flat-rounded&logo=Gmail&logoColor=white&link=mailto:muhammadlutvzaini@duck.com)](mailto:muhammadlutvzaini@duck.com)
+[![Linkedin Badge](https://img.shields.io/badge/-muhammadlutfizaini-black?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-lutfi-zaini-8a2852224)](https://www.linkedin.com/in/muhammad-lutfi-zaini-8a2852224)
 
 #### 🚀 Things I code with
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-rounded&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-rounded&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-rounded&logo=javascript)
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-rounded&logo=bootstrap)
-
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-rounded&logo=mysql)
-
-![Linux Badge](https://img.shields.io/badge/-Linux-black?style=flat-rounded&logo=Linux&logoColor=white&link=https://linuxmint.com/)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-rounded&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-rounded&logo=github)
-![VSCodium](https://img.shields.io/badge/-VSCodium-%23007ACC?style=flat-rounded&logo=visual-studio-codium)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-rounded&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-rounded&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-rounded&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-rounded&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-rounded&logo=mysql&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/-LinuxMint-black?style=flat-rounded&logo=Linux-Mint&logoColor=white&link=https://linuxmint.com/)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-rounded&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-rounded&logo=github&logoColor=white)
+![VSCodium](https://img.shields.io/badge/-VSCodium-black?style=flat-rounded&logo=VSCodium&logoColor=white)
 
 
 <!-- ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-rounded&logo=Node.js)
@@ -37,6 +35,6 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-rounded&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-rounded&logo=bitbucket) -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=muhammadlutvzaini&count_private=true&show_icons=true&include_all_commits=true)
-
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=muhammadlutvzaini&count_private=true&show_icons=true&include_all_commits=true)
+ -->
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muhammadlutvzaini.muhammadlutvzaini) -->
