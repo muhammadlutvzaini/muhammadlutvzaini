@@ -8,12 +8,10 @@
 #### 🤙 Connect
 
 [![Twitter Badge](https://img.shields.io/badge/-@lutvz-blue?style=flat-rounded&logo=twitter&logoColor=white&link=https://twitter.com/lutvzaini/)](https://twitter.com/lutvzaini)
-[![Gmail Badge](https://img.shields.io/badge/-muhammadlutvzaini@gmail.com-c14438?style=flat-rounded&logo=Gmail&logoColor=white&link=mailto:muhammadlutvzaini@gmail@gmail.com)](mailto:muhammadlutvzaini@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-muhammadlutvzaini@duck.com-c14438?style=flat-rounded&logo=Gmail&logoColor=white&link=mailto:muhammadlutvzaini@duck.com)](mailto:muhammadlutvzaini@duck.com)
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadlutfizaini-blue?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-lutfi-zaini-8a2852224)](https://www.linkedin.com/in/muhammad-lutfi-zaini-8a2852224)
 
-
-
-#### ⚡ Technologies
+#### 🚀 Things I code with
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-rounded&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-rounded&logo=css3)
@@ -26,7 +24,7 @@
 ![Linux Badge](https://img.shields.io/badge/-Linux-black?style=flat-rounded&logo=Linux&logoColor=white&link=https://linuxmint.com/)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-rounded&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-rounded&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-rounded&logo=visual-studio-code)
+![VSCodium](https://img.shields.io/badge/-VSCodium-%23007ACC?style=flat-rounded&logo=visual-studio-codium)
 
 
 <!-- ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-rounded&logo=Node.js)
