@@ -1,13 +1,13 @@
 ## hi <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 
 - 🔭 &nbsp;I'm currently pursuing bachelor's degree majoring in Information System
-- 🌱 &nbsp;I’m currently learning Javascript, Node.js, React.js
-- 📫 &nbsp;Reach me: [@lutz](https://twitter.com/lutvz)
-- ⚡ &nbsp;Fun fact: I love nature & earth
+- 🌱 &nbsp;I’m currently learning Javascript, React.js, Node.js
+- 📫 &nbsp;Reach me: [@lutzaini](https://twitter.com/lutvzaini)
+- 🌏 &nbsp;I love nature & earth
 
 #### 🤙 Connect
 
-[![Instagram Badge](https://img.shields.io/badge/-@lutvz-blue?style=flat-rounded&logo=twitter&logoColor=white&link=https://instagram.com/lutvz/)](https://twitter.com/lutvz)
+[![Twitter Badge](https://img.shields.io/badge/-@lutvz-blue?style=flat-rounded&logo=twitter&logoColor=white&link=https://twitter.com/lutvzaini/)](https://twitter.com/lutvzaini)
 [![Gmail Badge](https://img.shields.io/badge/-muhammadlutvzaini@gmail.com-c14438?style=flat-rounded&logo=Gmail&logoColor=white&link=mailto:muhammadlutvzaini@gmail@gmail.com)](mailto:muhammadlutvzaini@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadlutfizaini-blue?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-lutfi-zaini-8a2852224)](https://www.linkedin.com/in/muhammad-lutfi-zaini-8a2852224)
 
